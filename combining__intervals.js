@@ -1,10 +1,7 @@
-let input1 = [
-  [1, 3],
-  [2, 6],
-  [8, 10],
-  [15, 18],
-];
+let input1 = [ [1, 3], [2, 6], [8, 10], [15, 18] ];
+
 function merge(interv) {
+
   if (interv.length < 2) {
     return interv;
   }
