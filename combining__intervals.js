@@ -20,4 +20,4 @@ function merge(interv) {
   }
   return result;
 }
-console.log(merge(input1));
+console.log(merge(input1)); //[ [ 1, 6 ], [ 8, 10 ], [ 15, 18 ] ]
